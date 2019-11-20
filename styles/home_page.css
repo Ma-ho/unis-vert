@@ -1,5 +1,5 @@
 #team {
-    background: url("assets/background_team.jpg") no-repeat center top;
+    background: url("../assets/background_team.jpg") no-repeat center top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -60,7 +60,7 @@ h3 {
 }
 
 #home {
-    background: url("./assets/background_home.jpg") no-repeat top center;
+    background: url("../assets/background_home.jpg") no-repeat top center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

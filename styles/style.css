@@ -290,21 +290,21 @@ p {
 
 @font-face {
     font-family: 'roboto_monoregular';
-    src: url('fonts/robotomono-regular-webfont.woff2') format('woff2'), url('fonts/robotomono-regular-webfont.woff') format('woff');
+    src: url('../fonts/robotomono-regular-webfont.woff2') format('woff2'), url('../fonts/robotomono-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'roboto_monomedium';
-    src: url('fonts/robotomono-medium.woff2') format('woff2'), url('fonts/robotomono-medium.woff') format('woff');
+    src: url('../fonts/robotomono-medium.woff2') format('woff2'), url('../fonts/robotomono-medium.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'roboto_monobold';
-    src: url('fonts/robotomono-bold.woff2') format('woff2'), url('fonts/robotomono-bold.woff') format('woff');
+    src: url('../fonts/robotomono-bold.woff2') format('woff2'), url('../fonts/robotomono-bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }

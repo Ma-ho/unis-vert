@@ -14,7 +14,7 @@
 .modal-content {
     width: 600px;
     height: 650px;
-    background: url("./assets/background_jeMengage.jpg") no-repeat center center;
+    background: url("../assets/background_jeMengage.jpg") no-repeat center center;
     border: none;
     border-radius: 0;
     text-align: center;
