@@ -216,11 +216,13 @@ footer p {
     flex-direction: column;
 }
 
-button {
+[type="submit"] {
     padding: 10px 15px;
-    background-color: #3DD8C4;
+    background-color: #3DD8C4 !important;
     border: none;
     color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
 
 footer input {

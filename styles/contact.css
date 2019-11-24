@@ -65,15 +65,8 @@ textarea
     width: 100%;
 }
 
-#emailHelp .btn
-
-/* Bouton "envoyer" */
-    {
+#emailHelp .btn {
     float: right;
-    background-color: #00dbc7 !important;
-    color: #ffffff !important;
-    border-color: #00dbc7 !important;
-    border-radius: 0 !important;
 }
 
 li.contact_address
