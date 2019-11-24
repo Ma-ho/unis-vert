@@ -3,10 +3,9 @@
     height: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     position: absolute;
-    top: -300px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    /* top: 100px; */
+    top: 50%; left: 50%; /* à 50%/50% du parent référent */
+    transform: translate(-50%, -50%); /* décalage de 50% de sa propre taille */
     display: none;
     z-index: 2;
 }
@@ -21,6 +20,7 @@
     padding: 50px;
     position: relative;
     display: block;
+    margin: 100px auto 0 auto;
 }
 
 .modal-content input {
